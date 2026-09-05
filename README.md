@@ -1,7 +1,7 @@
 # Playhouse
 This is my room, 3D-designed in Onshape for the Playhouse program on Hack Club.
 
-![image alt](https://github.com/M00nAng3l/Playhouse/blob/9dc23555feb96eb5fd86fe686585f9894c0a25d8/Screenshot%202026-09-04%20205113.png)
+![image alt](https://github.com/M00nAng3l/Playhouse/blob/7aa1d4531d54b37edeb798041f8ad7aabb103efa/Screenshot%202026-09-04%20205113.png)
 
 
 # Devlog 8/31/26
