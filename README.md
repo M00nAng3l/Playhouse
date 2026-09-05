@@ -1,5 +1,6 @@
 # Playhouse
 This is my room, 3D-designed in Onshape for the Playhouse program on Hack Club.
+![Playhouse design](./Screenshot 2026-09-04 205113.png/playhouse.png)
 
 # Devlog 8/31/26
 I started designing my playhouse in Onshape, getting the basics together, like the base room and following the playhouse guide.
